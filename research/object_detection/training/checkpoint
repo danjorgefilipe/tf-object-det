@@ -1,0 +1,6 @@
+model_checkpoint_path: "model.ckpt-2416"
+all_model_checkpoint_paths: "model.ckpt-1610"
+all_model_checkpoint_paths: "model.ckpt-1808"
+all_model_checkpoint_paths: "model.ckpt-2007"
+all_model_checkpoint_paths: "model.ckpt-2214"
+all_model_checkpoint_paths: "model.ckpt-2416"

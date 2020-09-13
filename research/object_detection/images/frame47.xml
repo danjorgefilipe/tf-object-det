@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagens</folder>
+	<filename>frame47.jpg</filename>
+	<path>/Users/danielsantos/Desktop/homeprojects/imagens/frame47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1192</width>
+		<height>746</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>345</ymin>
+			<xmax>308</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+</annotation>
